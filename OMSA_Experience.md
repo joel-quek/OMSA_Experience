@@ -197,7 +197,8 @@ In summary: Random number generation creates the base data for simulations. Rand
 
 The homework assignments were multiple-choice, but most of the questions (except for ARENA) required calculations. Some of these calculations were quite lengthy. I had to teach my groupmates how to approach the homework problems because they were fairly challenging. Here is an example:
 
-<img width="375" alt="image" src="https://github.com/user-attachments/assets/47fdff28-d79e-45fb-ac1d-f927126cba7c" />
+![image](https://github.com/user-attachments/assets/d646826c-5db3-44b1-9637-aec8f509cfa5)
+
 
 
 The group project makes up a large portion of the grade, with project topics decided by the course instructors. I teamed up with WS again, along with two other guys who didn't pull their weight. One member left our group after the first meeting, and another disappeared midway through. WS and I were left to face the challenge together, I could fight Thanos with WS.
