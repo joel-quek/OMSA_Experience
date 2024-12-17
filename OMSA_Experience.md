@@ -205,7 +205,8 @@ The group project makes up a large portion of the grade, with project topics dec
 
 The exams are very similar to Homework questions. I personally felt that the ARENA questions were not well designed, why do I need to know this?
 
-<img width="642" alt="image" src="https://github.com/user-attachments/assets/100d184e-6309-400a-ad0b-656bcd83d008" />
+![image](https://github.com/user-attachments/assets/fe59c2a2-4518-4802-8788-c8baa63c5f96)
+
 
 Apart from the ARENA questions, please know that the questions are HEAVY on Mathematics, and really test your understanding of Calculus, Probability, summation/capital pi notation and Modular Arithmetic. If you do not have any strong background in these topics, you need to prepare yourself.
 
@@ -313,8 +314,10 @@ Every homework assignment comes in two parts:
 
 Here is a snippet from one of my homework reports
 
-<img width="533" alt="image" src="https://github.com/user-attachments/assets/21bca363-7799-4155-bcd2-f1d7e6c149b6" />
-<img width="440" alt="image" src="https://github.com/user-attachments/assets/d59415f3-93fa-431e-b88f-f239bd84065c" />
+![image](https://github.com/user-attachments/assets/d92ac1fc-2e89-4792-95a2-a98f58aeb34b)
+
+![image](https://github.com/user-attachments/assets/e277c20c-9374-482a-890f-2a43f77f356f)
+
 
 The project was really a free-for-all. You could choose to do it in teams of one to four, hence I opted to do it alone. I did a project involving the [NASA Degradation Dataset on Kaggle](https://www.kaggle.com/datasets/behrad3d/nasa-cmaps), and really had a chance to apply the Q-Learning algorithm from ML4T. The project was well-received.
 
@@ -441,17 +444,18 @@ The homework assignments follow the same format as CDA homework assignments, whe
 1. Mathematical Proof of the machine learning method
 2. Code involving the machine learning method
 
-Here is a snippet of a HDDA Homework question
+Here is a snippet of a HDDA Homework report
 
-<img width="607" alt="image" src="https://github.com/user-attachments/assets/523fadec-c07e-4cd5-a866-6f4718e383f6" />
+![image](https://github.com/user-attachments/assets/4e27150f-2cb0-456f-857e-bed45e481ff9)
+
 
 The exams are take-home and open internet. They are basically the same as every HDDA homework assignment, but with a shorter deadline and higher weightage. If you ask me, I would say that the difficulty of the exam questions are no different from the homework. It's just that you have less time to work on them.
 
 Here is a snippet of what HDDA Exam Questions look like
 
-<img width="655" alt="image" src="https://github.com/user-attachments/assets/7bff4dc0-160a-4a5c-8d2b-0945894736a7" />
+![image](https://github.com/user-attachments/assets/eec0e128-fb93-443d-9ce5-9b9ab1a193bc)
 
-<img width="577" alt="image" src="https://github.com/user-attachments/assets/fb97a584-054f-4247-98d5-34a8fec23bd2" />
+![image](https://github.com/user-attachments/assets/3bc21591-0fa8-4e08-9041-db09c052597f)
 
 
 HDDA is a stellar course and very well designed. It is very math heavy and not for the faint hearted.
@@ -467,7 +471,8 @@ HDDA is a stellar course and very well designed. It is very math heavy and not f
 
 *Grade: A*
 
-![image](https://github.com/user-attachments/assets/1d10e71a-ebd7-469a-86ff-dca12742c347)
+![image](https://github.com/user-attachments/assets/f2eb2aa1-ada1-403c-bba7-3fb49d5e3f33)
+
 
 I had the privilege of completing my Practicum with Michelin North America. Technically you can approach your own company and propose a project to GaTech, or you can go with the list of companies that are partnered with the University. This also means that the Practicum can be as easy or challenging as you want it to be. What I love about Practicum is that it’s designed to simulate real-world working conditions. My team of three had to coordinate across different time zones, squeezing in meetings whenever we could. Due to a Non-Disclosure Agreement, I can’t share specific details about the project, but Michelin makes tyres and hands out stars to chefs, so you can draw your own conclusions. Side note, I think [One Fattened Calf](https://www.onefattenedcalf.com/) in Singapore deserves at least *one* star.
 
